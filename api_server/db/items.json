@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Bread",
+        "price": "900",
+        "size": "medium",
+        "id": 1
+    },
+
+    {
+        "name": "MeatPie",
+        "price": "500",
+        "size": "small",
+        "id": 2
+    },
+
+    {
+        "name": "Icecream",
+        "price": "1500",
+        "size": "medium",
+        "id": 3
+    }
+]
